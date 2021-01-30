@@ -18,9 +18,13 @@ The grid has an initial setup and it changes overtime:
 - High levels of pollution and temperature causes glaciers to melt, forests to be destroyed, and seas to evaporate.
 
 The program displays the initial state of the world and updates it every generation (using tkinter).
+![alt text](https://github.com/belea7/Ecosystem_Cellular_Automaton/blob/main/picures/view.PNG?raw=true)
 
-The program keeps track of different statistics, such as:
+The program keeps track of different statistics(using matplotlib), such as:
 - Global temperature and pollution levels
 - Number of forests, glaciers, and seas
 
 When the program finishes running, it displays reports:
+![alt text](https://github.com/belea7/Ecosystem_Cellular_Automaton/blob/main/picures/average%20temperature%20and%20pollution.PNG?raw=true)
+![alt text](https://github.com/belea7/Ecosystem_Cellular_Automaton/blob/main/picures/normalized%20temperature%20and%20pollution.PNG?raw=true)
+![alt text](https://github.com/belea7/Ecosystem_Cellular_Automaton/blob/main/picures/pollution%20effect%20on%20the%20world.PNG?raw=true)
